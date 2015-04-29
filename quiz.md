@@ -2,20 +2,20 @@
 
 ###What is your name?
 
-Your answer goes here
+Madoka
 
 ###What is your favorite color?
 
-Your answer goes here
+Pink
 
 ###Cats or Dogs?
 
-Your answer goes here
+Dog
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+I don't know.
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+My family in Japan.
